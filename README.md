@@ -20,19 +20,19 @@ Este proyecto es una aplicación web para la gestión de pacientes en una clíni
 
 1. Clona este repositorio en tu máquina local:
 
-  git clone https://github.com/JuanCarlosPeTorres/citas-react.git
+- git clone https://github.com/JuanCarlosPeTorres/citas-react.git
 
 2. Accede al directorio del proyecto:
 
-  cd citas-react
+- cd citas-react
 
 3. Instala las dependencias del proyecto:
 
-  npm install
+- npm install
 
 4. Inicia el servidor de desarrollo:
 
-  npm run dev
+- npm run dev
 
 5. Abre tu navegador y accede a http://localhost:5173 para ver la aplicación en funcionamiento.
 
